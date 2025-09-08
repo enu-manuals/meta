@@ -1,9 +1,25 @@
-# Page 1
+---
+icon: hand-wave
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
 
-First Page
+# Home
 
-## Hi ! Taehong !&#x20;
+## enuSpaceMeta Manual
 
-{% content-ref url="page-2.md" %}
-[page-2.md](page-2.md)
-{% endcontent-ref %}
+[Back to top](./#enuspacemeta-manual)
+
+<mark style="color:$info;">Copyright © 2016-2020 Expansion & Universal Co., ltd</mark>
